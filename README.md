@@ -1,4 +1,4 @@
-# Hey, I'm Aashima 👋
+# Hi, I'm Aashima 👋
 
 I'm a Computer Science graduate exploring the world of data analytics. I enjoy working with data, figuring out what it tells us, and learning how businesses can use it to make better decisions.
 
