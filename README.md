@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Aashima 👋
 
-<!--
-**statfb/statfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate exploring the world of data analytics. I enjoy working with data, figuring out what it tells us, and learning how businesses can use it to make better decisions.
 
-Here are some ideas to get you started:
+I'm currently practising SQL, Excel and Power BI and building projects to get better at analysing real-world data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools I Work With
+- **Excel** — PivotTables, lookup formulas and data cleaning
+- **SQL** — Queries, joins, subqueries and aggregations
+- **Power BI** — Data cleaning, relationships and basic dashboards
+- **Python** — Learning Python and Pandas
+
+### What I'm Exploring
+- Analysing sales and business data
+- Making reports and dashboards
+- Finding answers to business questions using data
+
+### Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/aashima-110702278)
